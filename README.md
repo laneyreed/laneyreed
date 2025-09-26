@@ -4,11 +4,9 @@
 
 
 #### 🚀 Helpful Repositories
-💜 [Front-End Master](https://github.com/laneyreed/Frontend-Master)
-
-🎨 [CSS Master](https://github.com/laneyreed/CSS-Master)
-
-🔮 [Flask Apps](https://github.com/laneyreed/Flask-Apps)
+- [Front-End Master](https://github.com/laneyreed/Frontend-Master)
+- [CSS Master](https://github.com/laneyreed/CSS-Master)
+- [Flask Apps](https://github.com/laneyreed/Flask-Apps)
 
 
 
