@@ -1,9 +1,26 @@
 ## Hi there 👋
+ 🔭 I’m currently working on creating small reusable components
+
+
+
+#### 🚀 Helpful Repositories
 💜 [Front-End Master](https://github.com/laneyreed/Frontend-Master)
 
 🎨 [CSS Master](https://github.com/laneyreed/CSS-Master)
 
 🔮 [Flask Apps](https://github.com/laneyreed/Flask-Apps)
+
+
+
+#### 📚 Reusable Componenets
+- [Modern Website Footer Component](https://github.com/laneyreed/Frontend-Master/tree/main/footers)
+- [Animated Responsive Banner](https://github.com/laneyreed/CSS-Master/blob/main/animations/keyframe-banner/README.md)
+- [Professional Responsive Cards with Hover animation](https://github.com/laneyreed/Frontend-Master/tree/main/responsive-cards)
+- [Accessiable Navigation](https://github.com/laneyreed/Frontend-Master/tree/main/navigation/accessiable-nav)
+
+
+
+
 <!--
 **laneyreed/laneyreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
