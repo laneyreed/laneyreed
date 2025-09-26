@@ -1,6 +1,6 @@
 ## Hi there 👋
 💜 [Front-End Master](https://github.com/laneyreed/Frontend-Master)
-
+🎨 [CSS Master](https://github.com/laneyreed/CSS-Master)
 🔮 [Flask Apps](https://github.com/laneyreed/Flask-Apps)
 <!--
 **laneyreed/laneyreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
