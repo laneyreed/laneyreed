@@ -1,5 +1,5 @@
 ## Hi there 👋
- 🔭 I’m currently working on creating small reusable components
+ 🔭 A responsive Flask web application providing educational dashboards for web development technologies including HTML, CSS, JavaScript, and Python.
 
 
 
