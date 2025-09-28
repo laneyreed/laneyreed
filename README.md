@@ -1,5 +1,7 @@
 ## Hi there 👋
- 🔭 A responsive Flask web application providing educational dashboards for web development technologies including HTML, CSS, JavaScript, and Python.
+ 🔭 Projects in Development
+ - A responsive Flask web application providing educational dashboards for web development technologies including HTML, CSS, JavaScript, and Python.
+ - A Flask-based web application for browsing and viewing vegan recipes, featuring a clean interface and database-driven content management.
 
 
 
